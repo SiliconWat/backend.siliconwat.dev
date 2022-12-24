@@ -2,11 +2,11 @@
     "course": {
         "title": "A Complete Backend Blockchain Course for Frontend Engineers",
         "subtitle": "2024 Edition",
-        "medium": null,
-        "udemy": "https://siliconwat.com/#backend.siliconwat.com",
+        "medium": "https://medium.com/@thonly/about",
+        "udemy": "https://www.udemy.com/user/thonly",
         "youtube": "https://youtube.com/@SiliconWat",
         "github": "https://github.com/SiliconWat/backend-cohort",
-        "discord": null
+        "discord": "https://discord.gg/9MAGPryJpN"
     },
     "units": [
         {
